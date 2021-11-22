@@ -1,1 +1,2 @@
 # shipment_tracking_java
+## A Truck that goes from a source Station to a destination Station is routed as follows: - move to a Hub that is close to the source Station - Navigate from Hub to Hub using Highways to the Hub that is close to the destination station. - Move from this Hub to the destination Station. and the live locations of shipment can also be visualize on the track that is created by the user.Implemented in java with Oops.
